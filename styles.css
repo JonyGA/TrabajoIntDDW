@@ -35,6 +35,32 @@ body {
     font-family: "Roboto Flex", sans-serif;
 }
 
+
+
+/* cambio del fondo de las tarjetas, comienza aca */
+.card {
+    flex: 1 1 220px;
+    padding: 16px;
+    border: 1px solid #042A2B; 
+    border-radius: 8px;
+    background-color: #042A2B; 
+    color: white; 
+}
+
+.descripcion {
+    color: #e0e0e0; 
+    font-size: 15px;
+    text-align: justify;
+}
+
+.card .boton {
+    background-color: aquamarine;
+    color: #042A2B;
+    font-weight: bold;
+}
+
+
+
 .cards {
     display: flex;
     flex-wrap: wrap;
@@ -42,12 +68,14 @@ body {
     margin-bottom: 100px;
 }
 
+/*
 .card {
     flex: 1 1 220px;
     padding: 16px;
     border: 1px solid #ccc;
     border-radius: 8px;
 }
+*/
 
 .card img {
     width: 100%;
@@ -73,11 +101,13 @@ body {
     
 }
 
+/*
 .descripcion {
     color:#6e6e6e;
     font-size: 15px;
     text-align:justify
 }
+*/
 
 /* */ 
 .titulo-seccion {
