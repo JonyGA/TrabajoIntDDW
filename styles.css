@@ -280,8 +280,23 @@ body {
     color: aquamarine;
 }
 
+.footer-redes ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
 
-.footer-copy {
+.footer-redes a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.footer-copyright {
     width: 100%;
     border-top: 1px solid #555;
     padding-top: 15px;
