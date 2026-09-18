@@ -1,0 +1,17 @@
+INTEGRANTES DEL GRUPO
+Trabajo Práctico Integrador - Entrega 1
+Diseño y Desarrollo Web - UADE - 2026
+
+------------------------------------------------------
+
+Integrante 1
+  Apellido:  Gonzalez
+  Nombre:    Ezequiel
+  Comisión:  583262 - 2026-2C - NOCHE - VIE
+  Mail UADE: egonzalez@uade.edu.ar
+
+Integrante 2
+  Apellido:  Gamboa
+  Nombre:    Jonathan
+  Comisión:  583262 - 2026-2C - NOCHE - VIE
+  Mail UADE: jogamboa@uade.edu.ar
