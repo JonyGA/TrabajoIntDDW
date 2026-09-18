@@ -43,6 +43,7 @@ Total del equipo: 16 horas
 VALIDACIÓN W3C
 --------------
 - Validador HTML5: Screenshot_html_validation.png
+- Validador CSS: Screenshot_css_validation.png
 
 
 NOTAS
